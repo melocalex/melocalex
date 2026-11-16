@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="200" viewBox="0 0 960 200" role="img" aria-labelledby="title desc">
+  <title id="title">Alexandre Melo</title>
+  <desc id="desc">Forward Deployed Engineer. AI agents in production. Florianópolis.</desc>
+  <rect width="960" height="200" fill="#0d1117"/>
+  <rect x="0" y="0" width="8" height="200" fill="#2dd4bf"/>
+  <text x="44" y="86" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700">Alexandre Melo</text>
+  <text x="44" y="124" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="500">Forward Deployed Engineer  ·  AI agents in production</text>
+  <line x1="44" y1="146" x2="420" y2="146" stroke="#30363d" stroke-width="1"/>
+  <text x="44" y="172" fill="#8b949e" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">Florianópolis  ·  developer since 2008  ·  blockchain since 2020  ·  AI since 2022</text>
+</svg>
